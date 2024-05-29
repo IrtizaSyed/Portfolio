@@ -383,9 +383,6 @@ span{
         min-height: auto;
     }
 
-    .about-img img{
-        width: 30rem;
-    }
 }
 
 @media (max-width: 768px){
@@ -431,10 +428,6 @@ span{
         order: 2;
     }
 
-    .home-img img{
-        width: 70vw;
-        margin-top: 4rem;
-    }
 
     .about{
         flex-direction: column;
